@@ -1,0 +1,35 @@
+/* *{
+    margin: 0;
+} */
+h3{
+    text-align: center;
+}
+/* .g{
+    margin: auto;
+} */
+/* form{
+    margin: auto; max-width: 200px;
+}
+.centralContainer{
+    max-width: 1200px; margin: auto;
+} */
+.task{
+    background-color: aquamarine;
+}
+.error{
+    color: red;padding: 0;
+}
+section.toDoList{
+    background-color: aqua;
+    padding-top: 10px;
+}
+
+.toDoListConatiner{
+    /*margin: auto; max-width: 500px;*/background-color: white;/*height: 500px;*/
+}
+.addButton{
+    background-color: lightblue;
+}
+label.underline{
+    text-decoration: line-through;
+}
